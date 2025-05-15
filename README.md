@@ -2,3 +2,4 @@
 Hello, my name is Sehoon Han  
 파이썬으로 데이터분석, AI 등 합니다.  
 I'm interested in Python, AI, Bigdata
+궁금한점 연락주세요 smallstone0008@gmail.com
